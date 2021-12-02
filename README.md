@@ -17,5 +17,4 @@ More about the naming conventions and database can be found [here](https://www.k
 #### NOTE 
 The best test accuracy achieved (_subject to our academic constraints and trials conducted_) was about 76% in case of CNN model. 
 
-Database:
 [^1]:https://doi.org/10.1371/journal.pone.0196391
