@@ -15,6 +15,6 @@ Similarly, the song database contains 1012 files: 44 trials per actor x 23 actor
 More about the naming conventions and database can be found [here](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio) and [here](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-song-audio)
 
 #### NOTE 
-The best test accuracy achieved (_subject to our academic constraints and trials conducted_) was about 76% in case of CNN model. 
+The best test accuracy achieved (_subject to our academic constraints and trials conducted_) was about 78.21% in case of CNN model. 
 
 [^1]:https://doi.org/10.1371/journal.pone.0196391
